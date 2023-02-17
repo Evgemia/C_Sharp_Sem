@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\GreekBrains\Знакомство с языками программирования\С#Sem\Sem2 -12.02.23\Zadacha2.2\bin\Debug\net6.0\Zadacha2.2.exe
+C:\Users\user\Desktop\GreekBrains\Знакомство с языками программирования\С#Sem\Sem2 -12.02.23\Zadacha2.2\bin\Debug\net6.0\Zadacha2.2.deps.json
+C:\Users\user\Desktop\GreekBrains\Знакомство с языками программирования\С#Sem\Sem2 -12.02.23\Zadacha2.2\bin\Debug\net6.0\Zadacha2.2.runtimeconfig.json
+C:\Users\user\Desktop\GreekBrains\Знакомство с языками программирования\С#Sem\Sem2 -12.02.23\Zadacha2.2\bin\Debug\net6.0\Zadacha2.2.dll
+C:\Users\user\Desktop\GreekBrains\Знакомство с языками программирования\С#Sem\Sem2 -12.02.23\Zadacha2.2\bin\Debug\net6.0\Zadacha2.2.pdb
+C:\Users\user\Desktop\GreekBrains\Знакомство с языками программирования\С#Sem\Sem2 -12.02.23\Zadacha2.2\obj\Debug\net6.0\Zadacha2.2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GreekBrains\Знакомство с языками программирования\С#Sem\Sem2 -12.02.23\Zadacha2.2\obj\Debug\net6.0\Zadacha2.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GreekBrains\Знакомство с языками программирования\С#Sem\Sem2 -12.02.23\Zadacha2.2\obj\Debug\net6.0\Zadacha2.2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GreekBrains\Знакомство с языками программирования\С#Sem\Sem2 -12.02.23\Zadacha2.2\obj\Debug\net6.0\Zadacha2.2.AssemblyInfo.cs
+C:\Users\user\Desktop\GreekBrains\Знакомство с языками программирования\С#Sem\Sem2 -12.02.23\Zadacha2.2\obj\Debug\net6.0\Zadacha2.2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GreekBrains\Знакомство с языками программирования\С#Sem\Sem2 -12.02.23\Zadacha2.2\obj\Debug\net6.0\Zadacha2.2.dll
+C:\Users\user\Desktop\GreekBrains\Знакомство с языками программирования\С#Sem\Sem2 -12.02.23\Zadacha2.2\obj\Debug\net6.0\refint\Zadacha2.2.dll
+C:\Users\user\Desktop\GreekBrains\Знакомство с языками программирования\С#Sem\Sem2 -12.02.23\Zadacha2.2\obj\Debug\net6.0\Zadacha2.2.pdb
+C:\Users\user\Desktop\GreekBrains\Знакомство с языками программирования\С#Sem\Sem2 -12.02.23\Zadacha2.2\obj\Debug\net6.0\Zadacha2.2.genruntimeconfig.cache
+C:\Users\user\Desktop\GreekBrains\Знакомство с языками программирования\С#Sem\Sem2 -12.02.23\Zadacha2.2\obj\Debug\net6.0\ref\Zadacha2.2.dll
